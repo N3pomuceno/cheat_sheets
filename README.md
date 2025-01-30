@@ -6,7 +6,7 @@ Minha ideia seria mais separar por temas, então podemos pensar em Data Science,
 
 Como por exemplo a ideia abaixo:
 
-
+```
 📂 CheatSheets-Repo
 │── 📁 Data Science
 │   ├── 📄 Python_Tips.pdf
@@ -24,6 +24,7 @@ Como por exemplo a ideia abaixo:
 │   ├── 📄 Regex_Tips.pdf
 │   ├── 📄 Bash_Scripting.pdf
 │── 📄 README.md
+```
 
 Não é só para código, porém também serve para shortcuts também!
 
