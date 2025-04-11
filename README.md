@@ -28,5 +28,19 @@ Como por exemplo a ideia abaixo:
 
 Não é só para código, porém também serve para shortcuts também!
 
-Se tiverem mais ideias, fiquem à vontade para compartilhar. Por enquanto estou pegando de lugares que disponibilizaram online, porém depois posso ir adicionando meus resumos e Cheat Sheets próprios.
+Se tiverem mais ideias, fiquem à vontade para compartilhar. Por enquanto estou pegando de lugares que disponibilizaram online, porém depois posso ir adicionando meus resumos e Cheat Sheets próprios. 
+
+Enquanto projetos A e B são utilizados para mostrar minhas habilidades, esse repositório é mais para me ajudar a ter mais algumas referências! Então seu propósito é diferente.
+
+```mermaid
+flowchart LR
+    A[Projeto_1]-->|Sobe|B[Github]
+    C[Projeto_2]-->B
+    F[Projeto_N...]-->B
+    D[Usuário]-->|Gera|A
+    D-->C
+    D-->F
+    E[Projeto de Cheat Sheets]-->|Auxilia|D
+
+```
 
